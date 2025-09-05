@@ -58,3 +58,7 @@ The model is trained using a combination of losses:
 ## Results
 
 The trained model is capable of generating convincing Monet-style paintings from landscape photographs, capturing the characteristic color palette and brush strokes of the artist. The notebook includes visualizations of the input photos and the corresponding generated images.
+
+## Acknowledgement
+
+I took inspiration from work done by Ryan Lynch (https://www.kaggle.com/code/lynchrl/week-5-gan-mini-project-final-execution) and tutorial @ https://keras.io/examples/generative/cyclegan/#cyclegan.
